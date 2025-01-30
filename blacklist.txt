@@ -1,0 +1,7 @@
+*://*.csdn.net/*
+*://blog.csdn.net/*
+*://cloud.baidu.com/article/*
+*://cloud.tencent.com/developer/article/*
+*://www.jianshu.com/p/*
+*://blog.51cto.com/*
+*://ai-bot.cn/*
