@@ -5,3 +5,5 @@
 *://www.jianshu.com/p/*
 *://blog.51cto.com/*
 *://ai-bot.cn/*
+*://www.sohu.com/a/*
+*://ask.julyedu.com/*
