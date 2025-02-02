@@ -7,3 +7,4 @@
 *://ai-bot.cn/*
 *://www.sohu.com/a/*
 *://ask.julyedu.com/*
+*://worktile.com/*
